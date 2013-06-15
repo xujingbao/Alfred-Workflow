@@ -5,6 +5,9 @@ Alfred
 
 ## List
 
+- 股票行情查询
+![sk](http://www.xujingbao.com/wp-content/uploads/2013/06/Screen-Shot-2013-06-15-at-%E4%B8%8B%E5%8D%8810.59.27.png)
+
 - Lucifr大牛制作的 Douban重症使用者的福音啊
 
 ![Douban](http://p2.zhimg.com/a1/c5/a1c557f84b48607c6d5f9573977e0897_m.jpg)
